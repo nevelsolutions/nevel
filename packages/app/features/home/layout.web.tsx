@@ -11,7 +11,6 @@ import {
   XStack,
   YStack,
   getTokens,
-  useThemeName,
   validToken,
 } from '@my/ui'
 import { Menu, Plus } from '@tamagui/lucide-icons'
